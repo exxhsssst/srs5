@@ -1,0 +1,15 @@
+{
+    "registration":"Регистрация",
+    "login": "Логин",
+    "register": "Регистр",
+    "login_button": "Логин",
+    "email": "Почта",
+    "please_enter_your_email": "Пожалуйста введите вашу почту",
+    "phone_Number": "Номер телефона",
+    "please_enter_your_phone_number": "Пожалуйста введите ваш номер телефона",
+    "username_email": "Имя пользователя / Почта",
+    "password": "Пароль",
+    "please_enter_your_password": "Пожалуйста введите ваш пароль",
+    "passwords_do_not_match": "Пароли не совпадают"
+
+}

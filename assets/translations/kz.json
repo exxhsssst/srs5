@@ -1,0 +1,15 @@
+{
+    "registration":"Тіркеу",
+    "login": "Кіру",
+    "register": "Тіркелу",
+    "login_button": "Кіру",
+    "email": "Пошта",
+    "please_enter_your_email": "Электрондық поштаңызды енгізіңіз",
+    "phone_Number": "Телефон нөмірі ",
+    "please_enter_your_phone_number": "Телефон нөміріңізді енгізіңіз",
+    "username_email": "Пайдаланушы аты / Электрондық пошта",
+    "password": "Құпия сөз",
+    "please_enter_your_password": "Құпия сөзіңізді енгізіңіз",
+    "passwords_do_not_match": "Құпия сөз сәйкес келмеді"
+
+}

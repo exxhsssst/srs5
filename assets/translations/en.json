@@ -1,0 +1,15 @@
+{
+    "registration": "Registration",
+    "login": "Login",
+    "register": "Register",
+    "login_button": "Login",
+    "email": "Email",
+    "please_enter_your_email": "Please enter your email",
+    "phone_Number": "Phone Number",
+    "please_enter_your_phone_number": "Please enter your phone number",
+    "username_email": "Username / Email",
+    "password": "Password",
+    "please_enter_your_password": "Please enter your password",
+    "passwords_do_not_match": "Passwords do not match" 
+
+}
